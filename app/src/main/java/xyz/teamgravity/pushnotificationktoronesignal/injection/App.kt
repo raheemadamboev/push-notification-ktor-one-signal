@@ -14,5 +14,6 @@ class App: Application() {
     override fun onCreate() {
         super.onCreate()
         OneSignal.initWithContext(this)
+        OneSignal.setAppId(ONE_SIGNAL_APP_ID)
     }
 }
