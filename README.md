@@ -1,7 +1,7 @@
 # push-notification-ktor-one-signal
 Jetpack Compose android app that you can send push notification among devices using KTOR and One Signal
 
-**Random Footballer**
+**Push Notification KTOR One Signal**
 
 <a href="https://github.com/raheemadamboev/push-notification-ktor-one-signal/blob/master/app-debug.apk">Demo app</a> 
 
