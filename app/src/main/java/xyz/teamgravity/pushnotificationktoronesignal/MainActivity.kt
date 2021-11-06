@@ -18,6 +18,8 @@ import xyz.teamgravity.pushnotificationktoronesignal.ui.theme.PushNotificationKT
 
 class MainActivity : ComponentActivity() {
 
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
