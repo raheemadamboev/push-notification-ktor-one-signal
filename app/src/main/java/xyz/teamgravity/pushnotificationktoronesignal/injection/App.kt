@@ -1,8 +1,10 @@
-package xyz.teamgravity.pushnotificationktoronesignal
+package xyz.teamgravity.pushnotificationktoronesignal.injection
 
 import android.app.Application
 import com.onesignal.OneSignal
+import dagger.hilt.android.HiltAndroidApp
 
+@HiltAndroidApp
 class App: Application() {
 
     companion object {

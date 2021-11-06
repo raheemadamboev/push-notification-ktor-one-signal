@@ -1,4 +1,4 @@
-package xyz.teamgravity.pushnotificationktoronesignal
+package xyz.teamgravity.pushnotificationktoronesignal.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -14,7 +14,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import xyz.teamgravity.pushnotificationktoronesignal.ui.theme.PushNotificationKTOROneSignalTheme
+import xyz.teamgravity.pushnotificationktoronesignal.presentation.ui.theme.PushNotificationKTOROneSignalTheme
 
 class MainActivity : ComponentActivity() {
 

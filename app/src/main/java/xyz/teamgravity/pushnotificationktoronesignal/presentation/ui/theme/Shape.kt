@@ -1,4 +1,4 @@
-package xyz.teamgravity.pushnotificationktoronesignal.ui.theme
+package xyz.teamgravity.pushnotificationktoronesignal.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

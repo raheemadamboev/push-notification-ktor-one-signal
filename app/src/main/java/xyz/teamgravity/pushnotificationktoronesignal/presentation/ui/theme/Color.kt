@@ -1,4 +1,4 @@
-package xyz.teamgravity.pushnotificationktoronesignal.ui.theme
+package xyz.teamgravity.pushnotificationktoronesignal.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
