@@ -1,7 +1,7 @@
 package xyz.teamgravity.pushnotificationktoronesignal.data.repository
 
 import xyz.teamgravity.pushnotificationktoronesignal.data.remote.NotificationApi
-import xyz.teamgravity.pushnotificationktoronesignal.domain.NotificationRepository
+import xyz.teamgravity.pushnotificationktoronesignal.domain.repository.NotificationRepository
 
 class NotificationRepositoryImpl(private val api: NotificationApi) : NotificationRepository {
 

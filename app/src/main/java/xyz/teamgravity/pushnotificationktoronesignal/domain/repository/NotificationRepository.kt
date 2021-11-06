@@ -1,4 +1,4 @@
-package xyz.teamgravity.pushnotificationktoronesignal.domain
+package xyz.teamgravity.pushnotificationktoronesignal.domain.repository
 
 interface NotificationRepository {
 
